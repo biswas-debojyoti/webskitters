@@ -1,7 +1,7 @@
-.App {
+#footer {
     text-align: center;
-    background-color:  rgb(118, 120, 115);
+    background-color:  rgb(91, 68, 149);
     font-family: 'Times New Roman', Times, serif;
     font-weight: bolder;
-    color: rgb(0, 79, 169);
+    color: cadetblue;
   }
