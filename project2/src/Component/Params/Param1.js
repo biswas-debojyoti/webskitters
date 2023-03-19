@@ -5,8 +5,9 @@ import image3 from '../../Images/image3.jpg'
 import image4 from '../../Images/image4.jpg'
 import image5 from '../../Images/image5.jpg'
 import image6 from '../../Images/image6.jpg'
-
 import { Link } from 'react-router-dom'
+
+
 export default function Param1() {
   return (
     <>
@@ -59,6 +60,7 @@ export default function Param1() {
 
 
 
+
       {/* 
       <Link to = "/param2/1" >
 <button type="">Click 1</button>     </Link>
@@ -66,7 +68,13 @@ export default function Param1() {
 <button type="">Click 2</button>     </Link>
      <Link to = "/param2/3" >
 <button type="">Click 3</button>     </Link> */}
-
     </>
+
+    
   )
 }
+
+
+
+
+

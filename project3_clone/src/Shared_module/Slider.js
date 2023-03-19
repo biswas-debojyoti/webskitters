@@ -7,7 +7,7 @@ import { slideItems } from '../Data'
 
 const Container = styled.div`
 width: 100%;
-height: 100vh;
+height: 80vh;
 display: flex;
 /* background-color: coral; */
 position: relative;
@@ -31,6 +31,7 @@ cursor: pointer;
 opacity: 0.5;
 z-index: 2;
 `
+
 const Wraper = styled.div`
 height: 100%;
 display: flex;

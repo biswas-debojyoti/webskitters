@@ -20,10 +20,10 @@ export default function Header() {
                 <Link class="nav-Link" to="/About">About</Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-Link" to="/param1">Params</Link>
+                <Link class="nav-Link disabled" to = "/Detail" >Detail</Link>
               </li>
               <li class="nav-item">
-                <Link class="nav-Link disabled">Disabled</Link>
+                <Link class="nav-Link" to="/Params1">Params</Link>
               </li>
             </ul>
           </div>
