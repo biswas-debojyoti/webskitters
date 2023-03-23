@@ -305,6 +305,45 @@ export default function Home() {
 
 
 
+<div class="card-deck">
+        <div class="card">
+          <img src={image4} class="card-img-top" alt="..." />
+          <div class="card-body">
+            <h3 class="card-title">Debu</h3>
+            <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="card">
+          <img src={image5} class="card-img-top" alt="..." />
+          <div class="card-body">
+          <h3 class="card-title">Debu</h3>
+            <p class="card-text">This card has supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+        <div class="card">
+          <img src={image6} class="card-img-top" alt="..." />
+          <div class="card-body">
+          <h3 class="card-title">Debu</h3>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This card has even longer content than the first to show that equal height action.</p>
+            <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+          </div>
+        </div>
+      </div>
+
+      <div class="card bg-dark text-white">
+  <img src={image2} class="card-img" alt="..."/>
+  <div class="card-img-overlay">
+  <h3 class="card-title">Debojyoti</h3>
+    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+    <p class="card-text">Last updated 3 mins ago</p>
+  </div>
+</div>
+
+
+
+
 
 
 
