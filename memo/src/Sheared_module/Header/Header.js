@@ -18,9 +18,9 @@ export default function header(){
       <li class="nav-item">
         <Link class="nav-link" to="/About">About</Link>       
       </li>
-      <li>
+      {/* <li>
       <Link class="nav-link" to="/Parent">Parent</Link>
-      </li>
+      </li> */}
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-expanded="false">
           Dropdown
