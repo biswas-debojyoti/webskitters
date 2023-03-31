@@ -1,9 +1,16 @@
 import React from 'react'
 
-export default function Child() {
+export default function Child(props) {
+console.log(props.value)
+
   return (
-    <div>
-      
-    </div>
+    <>
+    
+    <h1>
+ {props.data}
+,.,./,./,./,./
+    </h1>
+    
+    </>
   )
 }
